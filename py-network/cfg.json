@@ -1,12 +1,12 @@
 {
   "dataset": {
-    "dataset_path": "/home/ccxing/disk/workbook/Vessel/DRIVE-datasets/",
-    "train_dir":  "training/",
+    "dataset_path": "andrewmvd/drive-digital-retinal-images-for-vessel-extraction",
+    "train_dir": "DRIVE/training/",
     "train_image_dir": "images/",
     "train_mask_dir": "mask/",
     "train_groundtruth_dir": "1st_manual/",
     "train_patch_dir": "patch/",
-    "test_dir": "test/",
+    "test_dir": "DRIVE/test/",
     "test_image_dir": "images/",
     "test_mask_dir": "mask/",
     "test_groundtruth_dir": "groundtruth/",
